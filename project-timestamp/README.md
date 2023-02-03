@@ -24,8 +24,6 @@ This is the code for the Timestamp Microservice project.
 
 ## My process
 
-I started from writing a basic HTML structure and choosing a design style and fonts. Then I fetched the data, and coded the chart.
-
 ### Built with
 
 - HTML
@@ -35,7 +33,7 @@ I started from writing a basic HTML structure and choosing a design style and fo
 
 ### What I learned
 
-How to create bar charts in D3.js, how to use scales, text, and assign various attributes.
+I've learned how to work with APIs, npm, Node, Express.
 
 ### Useful resources
 
