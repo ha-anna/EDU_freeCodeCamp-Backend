@@ -20,11 +20,11 @@ All project that I've completed and that are part of the FreeCodeCamp's Back End
 
 ### Links
 
-1. [Timestamp microservice](https://github.com/its-haanna/EDU_freeCodeCamp-Backend/tree/main/project-timestamp) <br>
-2. [Url shortener](https://github.com/its-haanna/EDU_freeCodeCamp-Backend/tree/main/project-urlshortener) <br>
-3. [Headparser](https://github.com/its-haanna/EDU_freeCodeCamp-Backend/tree/main/project-headerparser) <br>
-4. [Exercise tracker](https://github.com/its-haanna/EDU_freeCodeCamp-Backend/tree/main/project-exercisetracker) <br>
-5. [File metadata](https://github.com/its-haanna/EDU_freeCodeCamp-Backend/tree/main/project-filemetadata) <br>
+1. [Timestamp microservice](https://github.com/ha-anna/EDU_freeCodeCamp-Backend/tree/main/project-timestamp) <br>
+2. [Url shortener](https://github.com/ha-anna/EDU_freeCodeCamp-Backend/tree/main/project-urlshortener) <br>
+3. [Headparser](https://github.com/ha-anna/EDU_freeCodeCamp-Backend/tree/main/project-headerparser) <br>
+4. [Exercise tracker](https://github.com/ha-anna/EDU_freeCodeCamp-Backend/tree/main/project-exercisetracker) <br>
+5. [File metadata](https://github.com/ha-anna/EDU_freeCodeCamp-Backend/tree/main/project-filemetadata) <br>
 
 ## My process
 
